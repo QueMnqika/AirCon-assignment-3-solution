@@ -1,7 +1,7 @@
 ﻿using System;
 using AirConditioner;
 
-namespace MyApp
+namespace AirConditioner
 {
     class Program
     {
