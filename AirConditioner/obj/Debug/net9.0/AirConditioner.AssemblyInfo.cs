@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirConditioner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebea7f03d43727cc84a4c6a792423ff8846e984")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirConditioner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirConditioner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

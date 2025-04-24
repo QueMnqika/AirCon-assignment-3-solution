@@ -1,0 +1,15 @@
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\bin\Debug\net9.0\AirConditioner.exe
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\bin\Debug\net9.0\AirConditioner.deps.json
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\bin\Debug\net9.0\AirConditioner.runtimeconfig.json
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\bin\Debug\net9.0\AirConditioner.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\bin\Debug\net9.0\AirConditioner.pdb
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.AssemblyInfoInputs.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.AssemblyInfo.cs
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.csproj.CoreCompileInputs.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.sourcelink.json
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\refint\AirConditioner.dll
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.pdb
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\AirConditioner.genruntimeconfig.cache
+C:\Users\Que Mnqika\OneDrive\Documents\Software Development\C#-Programming-Language\AirConditioner-solution\AirConditioner\obj\Debug\net9.0\ref\AirConditioner.dll
