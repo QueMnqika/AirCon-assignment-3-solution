@@ -9,9 +9,7 @@ namespace AirConditioner
     public class AirCon
     {
         public string BrandName;
-        public string AirConMode;
-        public int AirConTemperature;
-        public string AirConFanSpeed;
+        
         private bool isOn;
         private int topTemperature = 29;
         private int lowTemperature = 18;
@@ -20,9 +18,6 @@ namespace AirConditioner
     public AirCon(string brandName, string userMode, int userTemperature, string userFanSpeed)
         {
             BrandName = brandName;
-            AirConMode = userMode;
-            AirConTemperature = userTemperature;
-            AirConFanSpeed = userFanSpeed;
             this.isOn = true;
         }
 
@@ -40,7 +35,7 @@ namespace AirConditioner
                 Console.WriteLine("What is the desired fan speed? Low, Medium, or High?");
                 string fanSpeedReply = Console.ReadLine();
                 SetFanSpeed(fanSpeedReply);
-                Console.WriteLine($"Tadaaaa! Your {BrandName} air con is on {modeReply} Mode, {temperatureReply}∘C and at a {fanSpeedReply} fan speed");
+                Console.WriteLine($"Tadaaaa! Your {BrandName} air con is on {modeReply} Mode, on {temperatureReply}∘C and at a {fanSpeedReply} fan speed");
 
             }
         }
@@ -91,7 +86,7 @@ namespace AirConditioner
                 Console.WriteLine($"We've set your temperature to the maximum of {topTemperature}∘C");
             } else if (userTemperature < lowTemperature)
             {
-                Console.WriteLine($"Your temperature required is above the minimum temperature");
+                Console.WriteLine($"Your temperature required is below the minimum temperature");
                 userTemperature = lowTemperature;
                 Console.WriteLine($"We've set your temperature to the minimum of {lowTemperature}∘C");
             }
